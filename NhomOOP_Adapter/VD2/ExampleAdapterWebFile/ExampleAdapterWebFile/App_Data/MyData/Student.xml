@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liststudents>
+	<student>
+		<id>10207120</id>
+		<name>Nguyễn Hồng Điệp</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10227764</id>
+		<name>Hồ Nguyễn Huyền Diệu</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10187949</id>
+		<name>Cao Ngọc Thành Đô</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10205787</id>
+		<name>Trương Văn Đoàn</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10198148</id>
+		<name>Đặng Việt Doanh</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10205382</id>
+		<name>Tạ Duyên Đông</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10183856</id>
+		<name>Cao Huy Đông</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10196332</id>
+		<name>Nguyễn Thành Đồng</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10218091</id>
+		<name>Trần Minh Đức</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10186988</id>
+		<name>Huỳnh Quang Đức</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10191706</id>
+		<name>Nguyễn Hữu Đức</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10180455</id>
+		<name>Nguyễn Duy Minh Đức</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10202235</id>
+		<name>Phạm Minh Đức</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10206162</id>
+		<name>Bùi Anh Đức</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10219154</id>
+		<name>Phạm Minh Đức</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10222746</id>
+		<name>Nguyễn Minh Đức</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10182903</id>
+		<name>Vũ Đình Đức</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10220528</id>
+		<name>Nguyễn Minh Đức</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10205686</id>
+		<name>Dương Mạnh Đức</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10192757</id>
+		<name>Nguyễn Trung Đức</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10195812</id>
+		<name>Lê Anh Đức</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10182561</id>
+		<name>Nguyễn Minh Đức</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10219314</id>
+		<name>Đỗ Tiến Minh Đức</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10194300</id>
+		<name>Đào Duy Đức</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10223188</id>
+		<name>Nguyễn Minh Đức</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10191628</id>
+		<name>Phạm Đặng Anh Đức</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10208132</id>
+		<name>Đàm Trần Ngọc Đức</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10219718</id>
+		<name>Nguyễn Ngọc Đức</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10217802</id>
+		<name>Trần Trung Đức</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10214379</id>
+		<name>Đào Việt Đức</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10209211</id>
+		<name>Nguyễn Phùng Đức</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10187098</id>
+		<name>Khổng Vũ Minh Đức</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10220734</id>
+		<name>Nguyễn Hữu Đức</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10202395</id>
+		<name>Đào Thị Thùy Dung</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10205800</id>
+		<name>Lê Chí Dũng</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10219566</id>
+		<name>Ngô Tuấn Dũng</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10183137</id>
+		<name>Nguyễn Thái Dũng</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10209302</id>
+		<name>Bùi Tiến Dũng</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10225470</id>
+		<name>Nguyễn Trọng Dũng</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10202561</id>
+		<name>Nguyễn Nho Dũng</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10214710</id>
+		<name>Dương Trần Anh Dũng</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10221175</id>
+		<name>Lê Tiến Dũng</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10214532</id>
+		<name>Nguyễn Tiến Dũng</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10197213</id>
+		<name>Nguyễn Lại Tiến Dũng</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10197906</id>
+		<name>Nguyễn Tiến Dũng</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10206679</id>
+		<name>Nguyễn Việt Dũng</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10195130</id>
+		<name>Mai Việt Dũng</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10203204</id>
+		<name>Nguyễn Hoàng Dũng</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10205590</id>
+		<name>Nguyễn Đình Dũng</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10220925</id>
+		<name>Trịnh Mạnh Dũng</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10216363</id>
+		<name>Đinh Tiến Dũng</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10193361</id>
+		<name>Lê Tuấn Dũng</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10229643</id>
+		<name>Dương Văn Dũng</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10183909</id>
+		<name>Hoàng Văn Dũng</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10209425</id>
+		<name>Đậu Hoàng Dũng</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10214197</id>
+		<name>Hoàng Hữu Dũng</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10201015</id>
+		<name>Phùng Hải Dương</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10215597</id>
+		<name>Nguyễn Quý Dương</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10206943</id>
+		<name>Nguyễn Vũ Thái Dương</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10189282</id>
+		<name>Nguyễn Trọng Đăng Dương</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10220094</id>
+		<name>Nguyễn Lê Quý Dương</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10188753</id>
+		<name>Nguyễn Mạnh Dương</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10214145</id>
+		<name>Nguyễn Hoàng Dương</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10180288</id>
+		<name>Đặng Nhật Dương</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10198378</id>
+		<name>Lê Quang Dương</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10181621</id>
+		<name>Phạm Hữu Dương</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10220769</id>
+		<name>Nguyễn Quý Dương</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10184821</id>
+		<name>Lã Quang Dương</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10205987</id>
+		<name>Trịnh Đăng Dương</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10201877</id>
+		<name>Đỗ Hữu Dương</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10189756</id>
+		<name>Quách Thái Dương</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10218626</id>
+		<name>Đỗ Trọng Dương</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10217068</id>
+		<name>Nguyễn Cảnh Dương</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10212922</id>
+		<name>Nguyễn Hoàng Dương</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10222522</id>
+		<name>Trần Thái Dương</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10189915</id>
+		<name>Đinh Tùng Dương</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10209586</id>
+		<name>Nguyễn Đức Dương</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10209430</id>
+		<name>Nguyễn Quý Dương</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10210429</id>
+		<name>Tạ Tùng Dương</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10229172</id>
+		<name>Trịnh Hoàng Dương</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10187921</id>
+		<name>Trần Nam Dương</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10193932</id>
+		<name>Lê Văn Dương</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10203203</id>
+		<name>Hoàng Thùy Dương</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10217786</id>
+		<name>Nguyễn Tùng Dương</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10197733</id>
+		<name>Phan Quang Duy</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10187608</id>
+		<name>Tạ Đức Duy</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10212769</id>
+		<name>Đặng Nhật Duy</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10210560</id>
+		<name>Nguyễn Minh Duy</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10190581</id>
+		<name>Nguyễn Anh Duy</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10207504</id>
+		<name>Nguyễn Đăng Duy</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10185611</id>
+		<name>Nguyễn Văn Duy</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10229503</id>
+		<name>Nguyễn Anh Duy</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10201727</id>
+		<name>Nguyễn Đức Duy</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10191462</id>
+		<name>Lê Việt Duy</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10218697</id>
+		<name>Phạm Đức Duy</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10216065</id>
+		<name>Đỗ Anh Duy</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10200880</id>
+		<name>Nguyễn Trọng Duy</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10180532</id>
+		<name>Nguyễn Đăng Duy</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10195432</id>
+		<name>Nguyễn Đức Duy</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10207143</id>
+		<name>Vương Đức Duy</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10199752</id>
+		<name>Hồ Ngọc Duy</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10208984</id>
+		<name>Nguyễn Trọng Khánh Duy</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10218221</id>
+		<name>Trần Châu Giang</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10192087</id>
+		<name>Đinh Hằng Giang</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10218478</id>
+		<name>Bùi Lam Giang</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10228706</id>
+		<name>Võ Trà Giang</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10195838</id>
+		<name>Phạm Thị Thùy Giang</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10192482</id>
+		<name>Lê Xuân Giao</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10189411</id>
+		<name>Nguyễn Hoàng Hà</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10229049</id>
+		<name>Phạm Thanh Mạnh Hà</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10198360</id>
+		<name>Chử Minh Hà</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10213785</id>
+		<name>Bùi Nguyễn Thái Hà</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10184773</id>
+		<name>Bùi Mạnh Hà</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10191908</id>
+		<name>Bùi Khánh Hà</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10214911</id>
+		<name>Nghiêm Thị Thu Hà</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10218961</id>
+		<name>Nguyễn Thanh Hà</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10223396</id>
+		<name>Nguyễn Thu Hà</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10228116</id>
+		<name>Thái Hữu Tuấn Hà</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10216026</id>
+		<name>Nguyễn Xuân Hà</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10211250</id>
+		<name>Nguyễn Tuấn Hải</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10223057</id>
+		<name>Nguyễn Quý Hải</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10214641</id>
+		<name>Hồ Tuấn Hải</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10185874</id>
+		<name>Đỗ Đức Hải</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10183535</id>
+		<name>Vũ Đức Hải</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10223478</id>
+		<name>Lưu Đức Hải</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10224115</id>
+		<name>Mai Thanh Hải</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10191617</id>
+		<name>Phạm Duy Hải</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10222232</id>
+		<name>Đặng Thanh Hải</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10223004</id>
+		<name>Nguyễn Thanh Hải</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10203342</id>
+		<name>Sằm Mạnh Hải</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10221932</id>
+		<name>Nguyễn Đức Hải</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10196651</id>
+		<name>Nguyễn Thị Thu Hằng</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10198552</id>
+		<name>Hà Thu Hằng</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10226799</id>
+		<name>Vũ Bá Hanh</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10209404</id>
+		<name>Trần Minh Hạnh</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10200151</id>
+		<name>Nguyễn Thị Hồng Hạnh</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10228256</id>
+		<name>Nguyễn Văn Hào</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10188707</id>
+		<name>Phạm Đức Hậu</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10228588</id>
+		<name>Nguyễn Thị Minh Hiền</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10187952</id>
+		<name>Đặng Đình Hiển</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10182217</id>
+		<name>Ngô Ngọc Hiển</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10218823</id>
+		<name>Vũ Minh Hiển</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10185721</id>
+		<name>Lê Quang Hiệp</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10201402</id>
+		<name>Phùng Minh Hiệp</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10193889</id>
+		<name>Vũ Trung Hoàng Hiệp</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10182188</id>
+		<name>Phan Huy Hiệp</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10194092</id>
+		<name>Hoàng Nghĩa Hiệp</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10221487</id>
+		<name>Nguyễn Trọng Hiếu</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10224325</id>
+		<name>Hồ Thành Hiếu</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10219209</id>
+		<name>Trần Dương Quang Hiếu</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10214915</id>
+		<name>Nghiêm Minh Hiếu</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10219181</id>
+		<name>Phạm Trung Hiếu</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10227312</id>
+		<name>Lê Quang Hiếu</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10183756</id>
+		<name>Nguyễn Đình Hiếu</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10221492</id>
+		<name>Nguyễn Thanh Hiếu</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10207576</id>
+		<name>Phạm Minh Hiếu</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10208121</id>
+		<name>Trần Minh Hiếu</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10203414</id>
+		<name>Nguyễn Xuân Hiếu</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10180077</id>
+		<name>Vũ Đức Hiếu</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10187586</id>
+		<name>Phạm Quang Hiếu</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10181096</id>
+		<name>Vương Minh Hiếu</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10202112</id>
+		<name>Trần Quang Hiếu</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10200206</id>
+		<name>Nguyễn Đình Minh Hiếu</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10180267</id>
+		<name>Dương Hữu Hiếu</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10216034</id>
+		<name>Nguyễn Mạnh Hiếu</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10219884</id>
+		<name>Nguyễn Phú Hiếu</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10187706</id>
+		<name>Tăng Quang Hiếu</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10202830</id>
+		<name>Nguyễn Xuân Hiếu</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10207174</id>
+		<name>Phạm Đình Trung Hiếu</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10225647</id>
+		<name>Nguyễn Minh Hiếu</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10200849</id>
+		<name>Nguyễn Văn Hiếu</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10229735</id>
+		<name>Trần Trung Hiếu</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10214427</id>
+		<name>Lê Tài Huy Hiệu</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10228758</id>
+		<name>Vũ Thị Thanh Hoa</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10221078</id>
+		<name>Khúc Duy Hòa</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10190781</id>
+		<name>Trịnh Xuân Hòa</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10209099</id>
+		<name>Vũ Hải Hòa</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10190940</id>
+		<name>Phạm Duy Hòa</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10223173</id>
+		<name>Vũ Ngọc Hoài</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10217108</id>
+		<name>Trần Đình Hoan</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10225496</id>
+		<name>Nguyễn Hoàn</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10181752</id>
+		<name>Nguyễn Việt Hoàng</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10180918</id>
+		<name>Khuất Minh Hoàng</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10207194</id>
+		<name>Hà Minh Hoàng</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10217960</id>
+		<name>Phạm Lương Hoàng</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10205811</id>
+		<name>Nguyễn Cảnh Hoàng</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10193144</id>
+		<name>Nguyễn Minh Hoàng</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10229566</id>
+		<name>Nguyễn Đức Hoàng</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10184673</id>
+		<name>Nguyễn Minh Hoàng</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10191131</id>
+		<name>Phan Việt Hoàng</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10209917</id>
+		<name>Nguyễn Huy Hoàng</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10210451</id>
+		<name>Vũ Trần Hoàng</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10191789</id>
+		<name>Nguyễn Mạnh Hoàng</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10227263</id>
+		<name>Đỗ Quang Hoàng</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10180169</id>
+		<name>Nguyễn Đức Hoàng</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10182218</id>
+		<name>Lê Văn Hoàng</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10211914</id>
+		<name>Nguyễn Tiến Hoàng</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10228245</id>
+		<name>Đào Nguyễn Huy Hoàng</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10201140</id>
+		<name>Nguyễn Tiến Hoàng</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10212745</id>
+		<name>Nguyễn Khắc Hoàng</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10215497</id>
+		<name>Trần Huy Hoàng</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10196162</id>
+		<name>Lê Sỹ Hoàng</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10205068</id>
+		<name>Nguyễn Đức Phúc Hoàng</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10223612</id>
+		<name>Trần Huy Hoàng</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10203593</id>
+		<name>Nguyễn Văn Nhật Hoàng</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10210795</id>
+		<name>Mã Khoa Học</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10180040</id>
+		<name>Phạm Minh Hồng</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10212479</id>
+		<name>Phạm Đức Hồng</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10184165</id>
+		<name>Nguyễn Thị Huệ</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10219846</id>
+		<name>Nguyễn Thọ Hùng</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10207768</id>
+		<name>Nguyễn Phi Hùng</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10187643</id>
+		<name>Nguyễn Mạnh Hùng</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10225144</id>
+		<name>Nguyễn Tuấn Hùng</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10209745</id>
+		<name>Vũ Đức Hùng</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10199146</id>
+		<name>Phạm Bá Hùng</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10217075</id>
+		<name>Đinh Việt Hùng</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10221748</id>
+		<name>Hoàng Đình Hùng</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10202402</id>
+		<name>Nguyễn Vũ Hùng</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10215579</id>
+		<name>Lê Việt Hùng</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10191920</id>
+		<name>Phan Thế Hùng</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10184209</id>
+		<name>Hà Huy Tuấn Hùng</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10192043</id>
+		<name>Nguyễn Duy Hưng</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10212989</id>
+		<name>Phạm Phúc Hưng</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10223840</id>
+		<name>Võ Tuấn Hưng</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10208924</id>
+		<name>Vũ Đình Hưng</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10212757</id>
+		<name>Vũ Đình Hưng</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10209845</id>
+		<name>Phạm Vũ Ngọc Hưng</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10211062</id>
+		<name>Trịnh Quang Hưng</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10180589</id>
+		<name>Nguyễn Vũ Thái Hưng</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10198942</id>
+		<name>Nguyễn Văn Hưng</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10193460</id>
+		<name>Phí Duy Hưng</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10202923</id>
+		<name>Phạm Khánh Hưng</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10195246</id>
+		<name>Trần Thế Hưng</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10229618</id>
+		<name>Đỗ Duy Hưng</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10202333</id>
+		<name>Lê Văn Hưng</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10213240</id>
+		<name>Hoàng Khánh Hưng</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10218795</id>
+		<name>Chu Bá Hưng</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10188246</id>
+		<name>Nguyễn Phú Hưng</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10224872</id>
+		<name>Hồ Hữu Hưng</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10199267</id>
+		<name>Đặng Thanh Hương</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10206029</id>
+		<name>Nguyễn Thu Hương</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10198928</id>
+		<name>Phạm Thiên Hương</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10196103</id>
+		<name>Nguyễn Quang Huy</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10221006</id>
+		<name>Nguyễn Đức Huy</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10210035</id>
+		<name>Nguyễn Quốc Huy</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10227173</id>
+		<name>Trần Quang Huy</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10228126</id>
+		<name>Lê Đức Huy</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10200594</id>
+		<name>Nguyễn Quang Huy</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10186094</id>
+		<name>Vũ Quang Huy</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10206157</id>
+		<name>Đỗ Lương Huy</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10224736</id>
+		<name>Nguyễn Duy Quang Huy</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10225351</id>
+		<name>Nguyễn Đức Huy</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10192135</id>
+		<name>Nguyễn Tiến Huy</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10193295</id>
+		<name>Bùi Nguyễn Quang Huy</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10225805</id>
+		<name>Nguyễn Chí Sơn Huy</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10205578</id>
+		<name>Nguyễn Quang Huy</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10202723</id>
+		<name>Bùi Công Huy</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10219084</id>
+		<name>Đào Quang Huy</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10192900</id>
+		<name>Nguyễn Đăng Huy</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10215536</id>
+		<name>Nguyễn Duy Huy</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10216457</id>
+		<name>Bùi Văn Huy</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10207138</id>
+		<name>Trần Hữu Huy</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10227552</id>
+		<name>Phương Văn Huy</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10186256</id>
+		<name>Nguyễn Gia Huy</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10221483</id>
+		<name>Lương Đức Huy</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10207696</id>
+		<name>Phạm Quang Huy</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10197025</id>
+		<name>Bùi Lê Huy</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10200447</id>
+		<name>Hồ Quang Huy</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10220766</id>
+		<name>Nguyễn Trọng Huy</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10184908</id>
+		<name>Nguyễn Quang Huy</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10183722</id>
+		<name>Võ Nhật Huy</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10223775</id>
+		<name>Bùi Thị Khánh Huyền</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10180487</id>
+		<name>Bùi Khánh Huyền</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10188513</id>
+		<name>Vũ Đỗ Đức Khải</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10206175</id>
+		<name>Chu Quang Khải</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10212584</id>
+		<name>Bùi Đức Khải</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10205916</id>
+		<name>Bạch Lê Tuấn Khải</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10200773</id>
+		<name>Hoàng Ngọc Khải</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10211572</id>
+		<name>Phạm Hữu Quang Khải</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10193512</id>
+		<name>Lê Võ Việt Khang</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10229766</id>
+		<name>Trần An Khang</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10223863</id>
+		<name>Phạm Phú Khang</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10180751</id>
+		<name>Ngô Duy Khang</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10216736</id>
+		<name>Hoàng Văn Khang</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10198211</id>
+		<name>Lê Bảo Khanh</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10184828</id>
+		<name>Nguyễn Duy Khanh</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10208989</id>
+		<name>Hồ Tùng Khánh</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10201255</id>
+		<name>Đoàn Minh Khánh</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10183239</id>
+		<name>Hoàng Lê Gia Khánh</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10221447</id>
+		<name>Nguyễn Nam Khánh</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10208403</id>
+		<name>Phạm Duy Khánh</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10189682</id>
+		<name>Phạm Gia Khánh</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10196967</id>
+		<name>Đoàn Nam Khánh</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10185623</id>
+		<name>Nguyễn Nam Khánh</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10201538</id>
+		<name>Lê Quốc Khánh</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10202952</id>
+		<name>Trịnh Đức Khánh</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10191921</id>
+		<name>Trần An Khánh</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10206427</id>
+		<name>Dương Duy Khánh</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10195573</id>
+		<name>Nguyễn Hồng Gia Khánh</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10197735</id>
+		<name>Trần Vương Khánh</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10209174</id>
+		<name>Đoàn Đức Khiêm</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10204929</id>
+		<name>Bùi Đức Khoa</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10197634</id>
+		<name>Nguyễn Đăng Khoa</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10186780</id>
+		<name>Đặng Phúc Khoa</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10218212</id>
+		<name>Nguyễn Đức Khoa</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10188561</id>
+		<name>Võ Nguyễn Đăng Khoa</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10227727</id>
+		<name>Nguyễn Minh Khôi</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10208910</id>
+		<name>Hoàng Phạm Việt Khôi</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10198698</id>
+		<name>Lưu Nguyên Khôi</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10185379</id>
+		<name>Mai Minh Khôi</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10219128</id>
+		<name>Nguyễn Đức Kiên</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10183849</id>
+		<name>Trần Trung Kiên</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10191759</id>
+		<name>Hoàng Trung Kiên</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10202686</id>
+		<name>Vũ Tứ Kiên</name>
+		<score>9</score>
+	</student>
+	<student>
+		<id>10208087</id>
+		<name>Lê Trung Kiên</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10225555</id>
+		<name>Nguyễn Trung Kiên</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10191662</id>
+		<name>Lê Đức Kiên</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10194334</id>
+		<name>Nguyễn Trung Kiên</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10220052</id>
+		<name>Nguyễn Trung Kiên</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10195473</id>
+		<name>Tạ Quang Kiên</name>
+		<score>0</score>
+	</student>
+	<student>
+		<id>10200156</id>
+		<name>Vũ Tuấn Kiệt</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10202911</id>
+		<name>Hoàng Tuấn Kỳ</name>
+		<score>3</score>
+	</student>
+	<student>
+		<id>10192091</id>
+		<name>Lê Quốc Lâm</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10218052</id>
+		<name>Trần Tùng Lâm</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10229498</id>
+		<name>Dương Phúc Lâm</name>
+		<score>10</score>
+	</student>
+	<student>
+		<id>10192075</id>
+		<name>Trần Hải Lâm</name>
+		<score>5</score>
+	</student>
+	<student>
+		<id>10185899</id>
+		<name>Trần Hà Vũ Lâm</name>
+		<score>2</score>
+	</student>
+	<student>
+		<id>10228032</id>
+		<name>Nguyễn Tùng Lâm</name>
+		<score>6</score>
+	</student>
+	<student>
+		<id>10204979</id>
+		<name>Nguyễn Hữu Lâm</name>
+		<score>1</score>
+	</student>
+	<student>
+		<id>10191484</id>
+		<name>Bùi Hải Lâm</name>
+		<score>8</score>
+	</student>
+	<student>
+		<id>10186304</id>
+		<name>Nguyễn Thiện Lâm</name>
+		<score>4</score>
+	</student>
+	<student>
+		<id>10181135</id>
+		<name>Nguyễn Hoàng Lâm</name>
+		<score>7</score>
+	</student>
+	<student>
+		<id>10217355</id>
+		<name>Nguyễn Việt Lâm</name>
+		<score>6</score>
+	</student>
+</liststudents>
